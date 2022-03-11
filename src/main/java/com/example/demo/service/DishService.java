@@ -2,7 +2,6 @@ package com.example.demo.service;
 
 import com.example.demo.dao.DishRepository;
 import com.example.demo.entity.Dish;
-import com.example.demo.exceptions.DishNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
